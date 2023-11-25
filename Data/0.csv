@@ -1,5 +1,5 @@
 id,time,NR_DU_cell,down_RLC_throughput(bps),up_RLC_throughput(bps),down_MAC_throughput(bps),up_MAC_throughput(bps),base_id,cell_id,phy_cell_id,RSRP(dBm),RSRQ(dB),class
-1,1679494689,1,0,5912,6264,221616,1,1,3,-75,-10,0
+1,1679494689,1,0,5912,6264,221616,1,1,3,-75,-10,0 
 2,1679494690,1,0,7784,15464,963040,1,1,3,-75,-10,0
 3,1679494691,1,0,5912,6008,414168,1,1,3,-77,-10,0
 4,1679494692,1,0,8344,16448,486888,1,1,3,-75,-10,0
