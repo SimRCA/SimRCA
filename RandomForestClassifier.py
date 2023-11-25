@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier, export_text
+from sklearn.tree import RandomForestClassifier, export_text
 from sklearn.metrics import classification_report
 
 def RandomForestClassifier(X,y):
